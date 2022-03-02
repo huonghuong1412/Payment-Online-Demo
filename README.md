@@ -1,4 +1,4 @@
-Payment-Online-API
+Payment-Online-Demo
 --
 ###### Restful API cho chức năng thanh toán online qua các cổng thanh toán VNPAY, ZALOPAY, MOMO 
 ###### Tài liệu chi tiết
